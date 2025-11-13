@@ -25,6 +25,7 @@ Although the model achieved promising results on the validation dataset, its gen
 ---
 
 ## Dataset
+- [Dataset Link](https://www.kaggle.com/datasets/cjinny/mura-v11)
 - The dataset consisted of labeled **X-ray images** categorized into two classes:
   -  **Fractured bones**
   -  **Normal bones**
@@ -75,7 +76,7 @@ Future directions include:
 
 ---
 
-## Repository Structure
+## Project Structure
 ```
 ├── Notebooks/ # Jupyter notebooks
 ├── Models/ # Saved model weights and architectures
@@ -83,4 +84,5 @@ Future directions include:
 ├── README.md # Project description
 └── Data-logs 
 ```
+
 

@@ -52,9 +52,9 @@ A **Convolutional Neural Network (CNN)** was implemented from scratch using **Te
 
 | Metric | Validation Dataset | Real-World Images |
 |:-------:|:-----------------:|:-----------------:|
-| **F1-score (weighted)** | ~0.75 | Low performance |
+| **F1-score (weighted)** | ~0.71 | Low performance |
 | **AUC-ROC** | ~0.80 | — |
-| **Accuracy** | ~0.70 | — |
+| **Accuracy** | ~0.75 | — |
 
 > The model performed reasonably well on the validation dataset.
 
@@ -84,5 +84,6 @@ Future directions include:
 ├── README.md # Project description
 └── Data-logs 
 ```
+
 
 

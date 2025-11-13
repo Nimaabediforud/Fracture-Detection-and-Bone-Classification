@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-1.x-blue?logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-success?logo=pandas)
 ![Status](https://img.shields.io/badge/Status-Paused-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
@@ -84,6 +86,7 @@ Future directions include:
 ├── README.md # Project description
 └── Data-logs 
 ```
+
 
 
 
